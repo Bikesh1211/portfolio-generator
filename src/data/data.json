@@ -1,0 +1,57 @@
+{
+  "name": "Sir Code-a-Lot",
+  "githubUrl": "https://github.com/codelord123",
+  "linkedinUrl": "https://linkedin.com/in/bughunter",
+  "email": "bugslayer@debugmail.com",
+  "projects": [
+    {
+      "title": "Unicorn Tracker",
+      "description": "A magical app that locates unicorns using React and fairy dust.",
+      "url": "https://github.com/codelord123/unicorn-tracker"
+    },
+    {
+      "title": "Pizza Delivery Drone",
+      "description": "Full-stack app to control drones that deliver pizzas faster than your hunger.",
+      "url": "https://github.com/codelord123/pizza-drone"
+    },
+    {
+      "title": "Cat Meme Generator",
+      "description": "Create and share the funniest cat memes with real-time laughter meter.",
+      "url": "https://github.com/codelord123/cat-meme-gen"
+    }
+  ],
+  "services": [
+    {
+      "icon": "FaMagicWand",
+      "title": "Frontend Wizardry",
+      "description": "Casting spells on pixels to make UI look enchanting and responsive."
+    },
+    {
+      "icon": "FaRobot",
+      "title": "Backend Sorcery",
+      "description": "Conjuring APIs with Node.js that talk faster than a caffeinated squirrel."
+    },
+    {
+      "icon": "FaPalette",
+      "title": "Design Alchemy",
+      "description": "Transforming bland ideas into gold-standard user experiences."
+    }
+  ],
+  "skills": [
+    "JavaScript (JS Juggler)",
+    "TypeScript (Type Whisperer)",
+    "React (React-o-rama)",
+    "Next.js (Next Level Ninja)",
+    "Node.js (Node Jedi)",
+    "Tailwind CSS (Styling Sorcerer)",
+    "GraphQL (Query Conjurer)",
+    "Docker (Container Captain)"
+  ],
+  "contactData": {
+    "heading": "Ready to Build Legendary Apps?",
+    "description": "If you have a wild idea or just want to chat about coding dragons, hit me up!",
+    "email": "magic@codeland.com",
+    "buttonText": "Summon Me",
+    "ariaLabel": "Send a magical email"
+  }
+}
