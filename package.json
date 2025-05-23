@@ -1,18 +1,19 @@
 {
-  "name": "portfolio-generator",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@bikeshkit/portfolio-generator",
+  "version": "1.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    , "build:component":"tsup"
   },
   "dependencies": {
     "next": "15.1.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-icons": "^5.5.0"
+    "react-icons": "^5.5.0",
+    "tsup": "^8.5.0"
   },
   "devDependencies": {
     "@types/node": "^20",
