@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { FaGithub, FaLinkedin, FaBars, FaTimes } from "react-icons/fa";
-
+import React from "react";
 interface NavbarProps {
   name: string;
   githubUrl: string;

@@ -7,7 +7,7 @@ import Skills from "../Skills";
 import Services from "../Services";
 import ContactCTA from "../ContactCTA";
 import Footer from "../Footer";
-
+import React from "react";
 interface Project {
   title: string;
   description: string;

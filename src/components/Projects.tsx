@@ -1,5 +1,4 @@
 import React, { KeyboardEvent } from "react";
-
 interface Project {
   title: string;
   description: string;

@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-
+import React from "react";
 interface HeroProps {
   name: string;
   githubUrl: string;
