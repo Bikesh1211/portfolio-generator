@@ -1,10 +1,16 @@
 {
   "name": "@bikeshkit/portfolio-generator",
   "version": "2.1.4",
-    "main": "dist/index.js",
-  "types": "dist/index.d.ts"
-,
-  
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "description": "A Next.js portfolio generator with TypeScript support",
+  "keywords": [
+    "nextjs",
+    "portfolio",
+    "generator",
+    "typescript",
+    "react"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -28,7 +34,6 @@
     "typescript": "^5"
   },
   "files": [
-  "dist"
-]
-
+    "dist"
+  ]
 }
