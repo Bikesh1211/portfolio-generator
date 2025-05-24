@@ -1,30 +1,22 @@
-# Portfolio Setup and Customization Guide
+# @bikeshkit/portfolio-generator
 
-This guide will help you set up and customize your personal portfolio site using Next.js, Tailwind CSS, and a handy portfolio generator package.
-
----
-
-## 🔗 Demo Application
-
-You can view the demo application here:  
-[View Demo Application](#)  
-_(Replace `#` with your actual demo URL)_
+A **Next.js** portfolio generator with **TypeScript** support, designed to help you quickly create and deploy your personal portfolio using React and Next.js.
 
 ---
 
-## How to Set Up and Customize This Portfolio
+## Features
 
-### 🛠 Installation Guide
+- Built with **Next.js** (v15.1.8) and **React** (v19)
+- Full **TypeScript** support for type safety and developer experience
+- Easy to customize and extend
+- Includes popular React icons via `react-icons`
+- Tailwind CSS ready for rapid styling
+- Fast build with `tsup` for component packaging
 
-Follow the steps below to get your personal portfolio site up and running:
+---
 
-1. **Create a Next.js App with Tailwind CSS and TypeScript**
+## Installation
 
-   Run the following commands:
-
-   ```bash
-   npx create-next-app@latest my-portfolio --typescript
-   cd my-portfolio
-   npm install -D tailwindcss postcss autoprefixer
-   npx tailwindcss init -p
-   ```
+```bash
+npm install @bikeshkit/portfolio-generator
+```
