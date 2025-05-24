@@ -4,7 +4,14 @@ A **Next.js** portfolio generator with **TypeScript** support, designed to help 
 
 ---
 
-## Features
+## 🌐 Live Documentation
+
+Explore the full documentation here:  
+👉 [https://portfolio-generator-ten-olive.vercel.app/documentation](https://portfolio-generator-ten-olive.vercel.app/documentation)
+
+---
+
+## ✨ Features
 
 - Built with **Next.js** (v15.1.8) and **React** (v19)
 - Full **TypeScript** support for type safety and developer experience
@@ -15,8 +22,7 @@ A **Next.js** portfolio generator with **TypeScript** support, designed to help 
 
 ---
 
-## Installation
+## 📦 Installation
 
 ```bash
 npm install @bikeshkit/portfolio-generator
-```

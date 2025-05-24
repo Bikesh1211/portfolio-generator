@@ -4,36 +4,42 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "A Next.js portfolio generator with TypeScript support",
-  "keywords": [
-    "nextjs",
-    "portfolio",
-    "generator",
-    "typescript",
-    "react"
-  ],
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "build:component": "tsup src/index.ts --dts"
-  },
-  "dependencies": {
-    "next": "15.1.8",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-icons": "^5.5.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "tsup": "^8.5.0",
-    "typescript": "^5"
-  },
-  "files": [
-    "dist"
-  ]
-}
+  "author": "Bikesh Chaudhary",
+  "homepage": "https://portfolio-generator-ten-olive.vercel.app/documentation",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bikesh1211/portfolio-generator",
+    "keywords": [
+      "nextjs",
+      "portfolio",
+      "generator",
+      "typescript",
+      "react"
+    ],
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint",
+      "build:component": "tsup src/index.ts --dts"
+    },
+    "dependencies": {
+      "next": "15.1.8",
+      "react": "^19.0.0",
+      "react-dom": "^19.0.0",
+      "react-icons": "^5.5.0"
+    },
+    "devDependencies": {
+      "@types/node": "^20",
+      "@types/react": "^19",
+      "@types/react-dom": "^19",
+      "postcss": "^8",
+      "tailwindcss": "^3.4.1",
+      "tsup": "^8.5.0",
+      "typescript": "^5"
+    },
+    "files": [
+      "dist"
+    ]
+  }
