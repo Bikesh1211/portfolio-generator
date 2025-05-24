@@ -5,8 +5,8 @@
   "types": "dist/index.d.ts",
   "description": "A Next.js portfolio generator with TypeScript support",
   "author": "Bikesh Chaudhary",
-  "homepage": "https://portfolio-generator-ten-olive.vercel.app/documentation",
   "license": "MIT",
+  "homepage": "https://portfolio-generator-ten-olive.vercel.app/documentation",
   "repository": {
     "type": "git",
     "url": "https://github.com/Bikesh1211/portfolio-generator",
@@ -43,3 +43,4 @@
       "dist"
     ]
   }
+}
