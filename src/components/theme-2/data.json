@@ -1,0 +1,36 @@
+{
+    "hero": {
+        "greeting": "Hi, I'm",
+        "name": "Your Name",
+        "tagline": "A passionate developer crafting modern web experiences."
+    },
+    "about": {
+        "title": "About Me",
+        "description": "I'm a full-stack developer with a strong passion for building web applications. I specialize in JavaScript, React, Next.js, and backend systems using Node.js and NestJS."
+    },
+    "projects": [
+        {
+            "title": "Portfolio Website",
+            "description": "A modern personal portfolio built with Next.js and Tailwind CSS.",
+            "link": "#"
+        },
+        {
+            "title": "E-Commerce Platform",
+            "description": "Full-stack application with cart, payment, and admin dashboard.",
+            "link": "#"
+        },
+        {
+            "title": "Blog System",
+            "description": "Markdown-based blog system using MDX and Next.js.",
+            "link": "#"
+        }
+    ],
+    "contact": {
+        "email": "your.email@example.com",
+        "socials": {
+            "LinkedIn": "https://linkedin.com/in/yourprofile",
+            "GitHub": "https://github.com/yourprofile",
+            "Twitter": "https://twitter.com/yourhandle"
+        }
+    }
+}

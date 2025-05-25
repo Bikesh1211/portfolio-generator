@@ -1,6 +1,6 @@
 {
   "name": "@bikeshkit/portfolio-generator",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "A Next.js portfolio generator with TypeScript support",
@@ -26,6 +26,7 @@
     "build:component": "tsup src/index.ts --dts"
   },
   "dependencies": {
+    "framer-motion": "^12.12.2",
     "next": "15.1.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
